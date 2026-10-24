@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+data/events.json
+data/events.json.*.tmp
+*.pem
+*.key
+secrets/

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "demo-post-1",
+    "content": "Hello from the Post Publishing Scheduler demo!",
+    "platform": "demo",
+    "scheduledAt": "2026-10-22T09:00:00.000Z"
+  }
+]
